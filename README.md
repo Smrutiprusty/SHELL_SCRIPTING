@@ -1,6 +1,6 @@
-What is Shell Script
-A shell script is a list of commands in a computer program that is run by the Unix shell which is a command-line interpreter. A shell script usually has comments that describe the steps.
+What is Shell Script?
 
+A shell script is a list of commands in a computer program that is run by the Unix shell which is a command-line interpreter. A shell script usually has comments that describe the steps.
 Allow you to run if-else statements and loops.
 A file that contains a series of commands.
 A plain text file.
@@ -14,7 +14,8 @@ ShellScript eliminates repetitive tasks through automation.
 Using a good script can reduce the change of error.
 A shell script can perform a task faster than a human can.
 You have to do a task more than once, but it's something that you rarely do.
-Why use Shell
+
+Why use Shell?
 Speed of deployment
 No worrying about low-level programming objects.
 Ease and speed of learning.
