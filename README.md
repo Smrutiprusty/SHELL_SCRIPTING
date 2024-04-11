@@ -17,12 +17,20 @@ You have to do a task more than once, but it's something that you rarely do.
 
 Why use Shell?
 
-Speed of deployment
+Speed of deployment.
+
 No worrying about low-level programming objects.
+
 Ease and speed of learning.
+
 Performance and efficiency.
+
 Anything you can do on the command line can be automated by writing a shell script.
+
 Can automate tedious or repetitive tasks.
+
 allow you to hand off work to others.
+
 Act as a form of documentation.
+
 Fairly quick and easy to write.
