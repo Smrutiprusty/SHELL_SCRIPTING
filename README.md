@@ -16,6 +16,7 @@ A shell script can perform a task faster than a human can.
 You have to do a task more than once, but it's something that you rarely do.
 
 Why use Shell?
+
 Speed of deployment
 No worrying about low-level programming objects.
 Ease and speed of learning.
