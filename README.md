@@ -1,6 +1,6 @@
-What is Shell Script?
+# What is Shell Script?
 
-A shell script is a list of commands in a computer program that is run by the Unix shell which is a command-line interpreter. A shell script usually has comments that describe the steps.
+**A shell script is a list of commands in a computer program that is run by the Unix shell which is a command-line interpreter. A shell script usually has comments that describe the steps.**
 •	Allow you to run if-else statements and loops.
 •	A file that contains a series of commands.
 •	A plain text file.
@@ -8,7 +8,7 @@ A shell script is a list of commands in a computer program that is run by the Un
 •	The terminal usually allows just one command at a time.
 •	Shell script allows you to combine and run multiple commands together.
 
-When do we need a shell script?
+# When do we need a shell script?
 
 
 •	You need to enter multiple shell commands and you will need to do it again in the future.
@@ -23,7 +23,7 @@ When do we need a shell script?
 
 •	You have to do a task more than once, but it's something that you rarely do.
 
-Why use Shell?
+# Why use Shell?
 
 
 •	Speed of deployment
